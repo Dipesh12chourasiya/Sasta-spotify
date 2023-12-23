@@ -30,7 +30,20 @@ nav ul {
 nav ul li {
     padding: 0 12px;
 }
-
+.searchBar{
+    width: 39em;
+    height: 1.5em;
+    text-decoration: none;
+    position: relative;
+    left: 14vw;
+    border-color: black;
+}
+nav input[type=text] {
+    padding: 3px;
+    border: none;
+    margin-top: 1px;
+    font-size: 17px;
+  }
 .brand img {
     width: 44px;
     padding: 0 8px;
